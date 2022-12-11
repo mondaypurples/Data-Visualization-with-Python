@@ -56,3 +56,5 @@ To do:
 4. Add a dropdown using dcc.dropdown
 5. Add the pie chart and bar chart core graph components.
 6. Run the app
+
+Project Environment: Utilized Theia (Python runtime to create and launch Dash applications), an open-source IDE platform, that can be run on the cloud. 
